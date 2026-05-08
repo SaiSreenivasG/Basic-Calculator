@@ -19,6 +19,8 @@ elif operator == 4:
     print(sub(n1,n2))
 elif operator == 5:
     print(power(n1,n2))
+elif operator == 6:
+    print(floordivision(n1,n2))
 else:
     print("Please select valid option")
 
